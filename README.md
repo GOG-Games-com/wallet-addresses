@@ -2,6 +2,7 @@
 ```
 bc1qs2asyl3zmt69t6r988yc25nlygww7sp76xaca4
 ```
+![Bitcoin QR Code](https://github.com/GOG-Games-com/wallet-addresses/blob/main/images/bitcoin.png)
 ### LTC (Litecoin)
 ```
 ltc1q46uhyk23rx277z2kn2crnphln0kghu9fpgpx00
