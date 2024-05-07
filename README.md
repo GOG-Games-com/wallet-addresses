@@ -14,4 +14,4 @@ ltc1q46uhyk23rx277z2kn2crnphln0kghu9fpgpx00
 ```
 ![Monero QR Code](https://github.com/GOG-Games-com/wallet-addresses/blob/main/images/monero.png)
 ### Other Cryptocurrency
-Please email [donate@gog-games.to](mailto:donate@gog-games.to?subject=Donation) for instructions
+Use [Trocador](https://trocador.app) and swap your cryptocurrency to the provided XMR address above.
