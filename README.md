@@ -1,8 +1,8 @@
 # Support Through Cryptocurrency
 
-Your donations help us maintain our infrastructure by covering the renewal costs of our seedbox.
+Your donations help maintain infrastructure by covering the renewal costs of the seedbox.
 
-We accept contributions through multiple cryptocurrency options. Each method includes both the wallet address and a QR code for your convenience.
+Contributions are accepted through multiple cryptocurrency options. Each method includes both the wallet address and a QR code for your convenience.
 
 ## Accepted Cryptocurrencies
 
@@ -32,14 +32,14 @@ ltc1q46uhyk23rx277z2kn2crnphln0kghu9fpgpx00
 
 ## Alternative Cryptocurrencies
 
-If you wish to donate using other cryptocurrencies, you can use [Trocador](https://trocador.app) to convert your preferred cryptocurrency to XMR and send it to our Monero address listed above.
+If you wish to donate using other cryptocurrencies, you can use [Trocador](https://trocador.app) to convert your preferred cryptocurrency to XMR and send it to the Monero address listed above.
 
 ### Important Notes:
 
 - Always verify the wallet addresses before sending any transactions
 - QR codes are provided for mobile wallet convenience
-- Transactions are irreversible - please double-check all details
+- :warning: Transactions are irreversible :warning: - please double-check all details!
 
 ---
 
-_Your support helps maintain and improve our services. Thank you for your contribution._
+_As always thank you for any contributions._
