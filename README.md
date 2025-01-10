@@ -38,7 +38,7 @@ If you wish to donate using other cryptocurrencies, you can use [Trocador](https
 
 - Always verify the wallet addresses before sending any transactions
 - QR codes are provided for mobile wallet convenience
-- :warning: Transactions are irreversible :warning: - please double-check all details!
+- :warning: Transactions are irreversible! Please double-check before sending :warning:
 
 ---
 
