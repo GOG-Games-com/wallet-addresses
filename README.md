@@ -2,7 +2,7 @@
 
 Your donations help maintain infrastructure by covering the renewal costs of the seedbox.
 
-To increase anonymity, all cryptocurrency contributions are now only accepted with [Monero](https://www.getmonero.org/). Please see the Alternative Cryptocurrencies section below on how to donate with others.
+To increase anonymity, all cryptocurrency contributions are now only accepted with [Monero](https://www.getmonero.org/). Please see the [Alternative Cryptocurrencies](https://github.com/GOG-Games-com/wallet-addresses#alternative-cryptocurrencies) section below on how to donate with others.
 
 ### Monero (XMR)
 
